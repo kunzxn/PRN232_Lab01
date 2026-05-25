@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D86F7FD-62FF-4698-A00B-27256CB82F89}|BusinessObjects\\BusinessObjects.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D86F7FD-62FF-4698-A00B-27256CB82F89}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D86F7FD-62FF-4698-A00B-27256CB82F89}|BusinessObjects\\BusinessObjects.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D86F7FD-62FF-4698-A00B-27256CB82F89}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D86F7FD-62FF-4698-A00B-27256CB82F89}|BusinessObjects\\BusinessObjects.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D86F7FD-62FF-4698-A00B-27256CB82F89}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F85BF6A-2291-4A5A-8446-937FC3AF09E5}|ProductStore\\ProductManagementMVC.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\productstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F85BF6A-2291-4A5A-8446-937FC3AF09E5}|ProductStore\\ProductManagementMVC.csproj|solutionrelative:productstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28C6A58-DDFC-4D36-9688-664D4E7DE501}|DataAccessObjects\\DataAccessObjects.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28C6A58-DDFC-4D36-9688-664D4E7DE501}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28C6A58-DDFC-4D36-9688-664D4E7DE501}|DataAccessObjects\\DataAccessObjects.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\dataaccessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28C6A58-DDFC-4D36-9688-664D4E7DE501}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28C6A58-DDFC-4D36-9688-664D4E7DE501}|DataAccessObjects\\DataAccessObjects.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28C6A58-DDFC-4D36-9688-664D4E7DE501}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F85BF6A-2291-4A5A-8446-937FC3AF09E5}|ProductStore\\ProductManagementMVC.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\productstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F85BF6A-2291-4A5A-8446-937FC3AF09E5}|ProductStore\\ProductManagementMVC.csproj|solutionrelative:productstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D469D511-1402-4DAD-B0E2-0D96ED8BEE6D}|Services\\Services.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D469D511-1402-4DAD-B0E2-0D96ED8BEE6D}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D469D511-1402-4DAD-B0E2-0D96ED8BEE6D}|Services\\Services.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D469D511-1402-4DAD-B0E2-0D96ED8BEE6D}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D469D511-1402-4DAD-B0E2-0D96ED8BEE6D}|Services\\Services.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D469D511-1402-4DAD-B0E2-0D96ED8BEE6D}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D469D511-1402-4DAD-B0E2-0D96ED8BEE6D}|Services\\Services.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D469D511-1402-4DAD-B0E2-0D96ED8BEE6D}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F85BF6A-2291-4A5A-8446-937FC3AF09E5}|ProductStore\\ProductManagementMVC.csproj|d:\\ky 8 - summer\\prn232\\project\\productstore\\productstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F85BF6A-2291-4A5A-8446-937FC3AF09E5}|ProductStore\\ProductManagementMVC.csproj|solutionrelative:productstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:04:06.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\BusinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\BusinessObjects\\Category.cs",
+              "RelativeToolTip": "BusinessObjects\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:04:05.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\BusinessObjects\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\BusinessObjects\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:04:04.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\ProductStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductStore\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\ProductStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductStore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:03:57.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\ProductDAO.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\ProductDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:03:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\DataAccessObjects\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\MyStoreContext.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\DataAccessObjects\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessObjects\\MyStoreContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:03:54.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\DataAccessObjects\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\CategoryDAO.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\DataAccessObjects\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:03:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:38:49.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:38:49.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:34:25.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:34:24.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\ProductStore\\Program.cs",
+              "RelativeDocumentMoniker": "ProductStore\\Program.cs",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\ProductStore\\Program.cs",
+              "RelativeToolTip": "ProductStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:33:14.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\ProductStore\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductStore\\appsettings.json",
+              "ToolTip": "D:\\Ky 8 - Summer\\PRN232\\Project\\ProductStore\\ProductStore\\appsettings.json",
+              "RelativeToolTip": "ProductStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T03:13:31.967Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
